@@ -10,3 +10,23 @@ p {
     color: #333;
     
 }
+
+header {
+    background-color : white;
+    color: black;
+    
+    height: 20px;
+    width: 100%;
+  }  
+
+
+a:link { 
+	 background-color: white;
+   font-color: Crimson;
+	 font-size: 14px;
+	 font-style: normal;
+	 font-family: helvetica;
+   font-weight: bold;
+	 text-decoration: none;
+
+}

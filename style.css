@@ -77,6 +77,17 @@ a:active {
   width: 600px;
 }
 
+
+#more a:links {
+  background-color: white;
+  color: darkgreen;
+  font-size: 14px;
+  font-style: normal;
+  font-family: helvetica;
+  font-weight: bold;
+  text-decoration: underline	
+}
+
 @media only screen and (max-width: 600px)  {
  #content {
 	 width: 90%;

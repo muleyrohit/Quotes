@@ -86,7 +86,7 @@ a:active {
   font-style: normal;
   font-family: helvetica;
   font-weight: bold;
-  text-decoration: underline;	
+  text-decoration: none;	
 }
 
 @media only screen and (max-width: 600px)  {

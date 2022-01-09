@@ -79,6 +79,7 @@ a:active {
 
 
 #more a:links {
+  float: right;
   background-color: white;
   color: darkgreen;
   font-size: 14px;
